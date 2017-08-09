@@ -1,5 +1,7 @@
-import React, { Component, PropTypes } from 'react';
+import React, { Component } from 'react';
 import { ART } from 'react-native';
+import PropTypes from 'prop-types';
+
 const { Shape, Path } = ART;
 
 export default class Bar extends Component {
